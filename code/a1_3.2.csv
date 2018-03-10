@@ -1,0 +1,5 @@
+inf,inf,24.75622,64.38961,26.04712
+Thw two inf values at the beginning are probably due to lack of information, bad feature extraction, or potentially just bad testing,
+data from my 40000 comment splice. After that however, we see an large increase at 15k and falls back down quite a bit. Its tough to
+characterize but I would say it might be similar to the way neural networks tend to have 300 nodes "as a sweet spot" number for best
+results, which similarly might be the case for the 15k comment range.
